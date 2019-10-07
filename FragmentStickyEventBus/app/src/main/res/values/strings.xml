@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FragmentStickyEventBus</string>
+    <string-array name="konular">
+        <item>Activity Nedir?</item>
+        <item>Service Nedir?</item>
+        <item>Content Provider Nedir?</item>
+        <item>Broadcast Reciever Nedir?</item>
+
+    </string-array>
+
+    <string-array name="Açıklamalar">
+        <item>Activityler, Android platformundaki uygulamaların temel yapı taşlarından biridir.
+            Etkileşimli bir uygulama için bir giriş noktası işlevi görürler
+            ve kullanıcıya bir uygulama aracılığıyla erişebilirler.</item>
+        <item>Android uygulamalarında arka planda çalışan ve kullanıcının uygulamayla olan
+            ilişkisini etkilemeyen işlemler için Service adında bir sınıf bulunur.
+            Veritabanı güncellemeleri, günlük hata raporlarının bildirilmesi gibi
+            rutin arka plan işlemleri için bir servis yaratma ihtiyacı duyduğumuzda
+            Service sınıfından bir alt sınıf yaratarak gerekli işlemleri kullanıcıyı
+            rahatsız etmeden gerçekleştirebiliriz.</item>
+        <item>Android uygulamaları birbirlerinin verilerine doğrudan ulaşamazlar.
+            Bu, hem güvenlik hem de uygulamaların birbirinden soyutlanabilmesini sağlar.
+            Bir veriyi birden fazla uygulamada kullanabilmek için "Content Provider" kullanılır.</item>
+        <item>BroadCastReceiver işletim sistemi tarafından uygulamalara gönderilen sinyalleri dinlemek
+            ve takip etmekle görevlidir. Bu sinyaller işletim sistemiyle birlikte gelen sistem uygulamaları
+            tarafından oluşturulabileceği gibi market üzerinden indirilen uygulamalar tarafından da gönderilebilir. </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

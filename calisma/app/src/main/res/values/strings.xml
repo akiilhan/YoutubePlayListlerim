@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calisma</string>
+    <string name="app_Baslik">How much weight on the other planets ?</string>
+    <string name="kilo_giris">Enter your weight:</string>
+    <string name="hesapla">hesapla</string>
+    <string name="Sonuc">Result</string>
+    <string name="mars">Mars</string>
+    <string name="venus">Venus</string>
+    <string name="jupiter">Jupiter</string>
+</resources>

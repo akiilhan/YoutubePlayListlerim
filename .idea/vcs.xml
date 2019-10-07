@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CanDostlar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentBackStack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentEventBus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentFlexibleOrnek" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentToFragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentVeriAlisverisiTekrar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GezegendeKacKilosun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HavaDurumuApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManzaraRecyclerview" vcs="Git" />
+  </component>
+</project>

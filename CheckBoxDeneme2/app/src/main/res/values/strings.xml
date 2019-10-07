@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxDeneme</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="mars">Mars</string>
+    <string name="saturn">Saturn</string>
+    <string name="kilonuzu_giriniz">Kilonuzu Giriniz:</string>
+    <string name="sonuc">Sonuc:</string>
+    <string name="kilo_gir">kilo gir</string>
+</resources>

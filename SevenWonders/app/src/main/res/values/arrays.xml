@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="harikaAdi">
+        <item>Kolezyum</item>
+        <item>Kahire Kalesi</item>
+        <item>Kurtarıcı İsa</item>
+        <item>Çin Seddi</item>
+        <item>Pisa Kulesi</item>
+        <item>Keops Piramidi</item>
+        <item>Stonehenge</item>
+        <item>Tac Mahal</item>
+    </string-array>
+    <string-array name="harikaYili">
+        <item>MS 70</item>
+        <item>1183</item>
+        <item>1922–1931</item>
+        <item>MÖ 403 - MÖ 221</item>
+        <item>1063-1090</item>
+        <item>MÖ 2580–2560</item>
+        <item> MÖ 3001</item>
+        <item>1632-1654</item>
+    </string-array>
+</resources>
