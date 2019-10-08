@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                 response: Response<YoutubePlaylist>
             ) {
 
-                Log.e("başarılı", "" + call?.request()?.toString())
+                Log.e("bbbaşarılı", "" + call?.request()?.toString())
                 gelenVeri = response?.body()
                 yotubeplaylistOynatmaListeleri = gelenVeri?.items
                 myAdapter= PlaylistAdapter(yotubeplaylistOynatmaListeleri)
